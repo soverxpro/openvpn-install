@@ -1,4 +1,4 @@
-## Перевод текста на русский
+## OpenVPN-install
 
 **OpenVPN-install: Установка OpenVPN для Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux и AlmaLinux**
 
